@@ -1,6 +1,8 @@
-#Test
+# Test
 Pada Kesempatan Kali ini, kita akan mengerjakan dua buah soal fisika menggunakan python
 
-#Soal 1 - Optika
+# Soal 1 - Optika
 
-#Soal 2 - Gerak Parabola
+# Soal 2 - Gerak Parabola
+
+# Link Youtube 
