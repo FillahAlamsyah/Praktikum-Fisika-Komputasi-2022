@@ -1,1 +1,0 @@
-# Integral Metode Scipy
